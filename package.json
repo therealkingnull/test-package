@@ -1,0 +1,22 @@
+
+  "name": "test_package",
+  "version": "1.0.0",
+  "description": "testing package making",
+  "main": "index.js",
+  "scripts": {
+    "test": "tet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealkingnull/test-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "therealkingnull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealkingnull/test-package/issues"
+  },
+  "homepage": "https://github.com/therealkingnull/test-package#readme"
+}
